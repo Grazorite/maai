@@ -1,0 +1,9 @@
+# Only the presentation and publishing instructions belong in this public repository.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/styles.css
+!/script.js
+!/conversation-guide.html
