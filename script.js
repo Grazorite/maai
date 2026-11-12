@@ -31,10 +31,10 @@
     ['Learn, remember, explore', 'Choreography Lab', 'Learn short choreos within a set time, remember them after a break and try your own ideas.']
   ];
   const growth = [
-    ['Control', 'Can you stop where you mean to? Look for steadier balance and clearer stops.'],
-    ['Timing', 'Can you stay with the music as the rhythm changes? Notice where you rush or lose the beat.'],
-    ['Memory', 'How much of the choreo can you remember without following me?'],
-    ['Ideas', 'Which choices in your piece feel most like you? What did you try, and what did you keep?']
+    ['Control', 'Can you engage what you mean to?'],
+    ['Timing', 'Can you stay with the music as the rhythm changes?'],
+    ['Memory', 'How much of the choreo can you remember in a session?'],
+    ['Ideas', 'Which choices in your piece feel most like you?']
   ];
 
   const closingDialogs = new WeakMap();
