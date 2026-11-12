@@ -28,7 +28,7 @@
   ];
   const labs = [
     ['Work on the basics', 'Technical Lab', 'Work on a core skill, practise drills and share what you’ve found.'],
-    ['Learn, remember, explore', 'Choreography Lab', 'Learn short choreos within a set time, remember them after a break and try your own ideas. Later, we’ll develop your pieces.']
+    ['Learn, remember, explore', 'Choreography Lab', 'Learn short choreos within a set time, remember them after a break and try your own ideas.']
   ];
   const growth = [
     ['Control', 'Can you stop where you mean to? Look for steadier balance and clearer stops.'],
